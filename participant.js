@@ -1,7 +1,7 @@
 'use strict'
-function play(){
+function tock(){
 	while(true){};
 }
 onmessage = messageEvent => {
-	onmessage = play;
+	onmessage = tock;
 };
