@@ -1,7 +1,4 @@
 'use strict'
-function tock(){
+ParticipantHelper.onmessage = ()=>{
 	while(true){};
-}
-onmessage = messageEvent => {
-	onmessage = tock;
 };
